@@ -6963,6 +6963,14 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
+vue-canvas-countdown@^1.0.0, vue-canvas-countdown@^1.0.1:
+  version "1.0.1"
+  resolved "http://registry.npm.taobao.org/vue-canvas-countdown/download/vue-canvas-countdown-1.0.1.tgz#a6f60aa2177451d8fc0286bb384a5ff9c27baf00"
+  integrity sha1-pvYKohd0Udj8Aoa7OEpf+cJ7rwA=
+  dependencies:
+    vue "^2.5.2"
+    vue-canvas-countdown "^1.0.0"
+
 vue-hot-reload-api@^2.3.0:
   version "2.3.3"
   resolved "http://registry.npm.taobao.org/vue-hot-reload-api/download/vue-hot-reload-api-2.3.3.tgz#2756f46cb3258054c5f4723de8ae7e87302a1ccf"
@@ -7005,7 +7013,7 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "http://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha1-HuO8mhbsv1EYvjNLsV+cRvgvWCU=
 
-vue@^2.6.6:
+vue@^2.5.2, vue@^2.6.6:
   version "2.6.9"
   resolved "http://registry.npm.taobao.org/vue/download/vue-2.6.9.tgz#415c1cc1a5ed00c8f0acdd0a948139d12b7ea6b3"
   integrity sha1-QVwcwaXtAMjwrN0KlIE50St+prM=
